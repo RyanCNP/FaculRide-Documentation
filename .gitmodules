@@ -1,0 +1,9 @@
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/devDavyRibeiro/FaculRide-BackEnd
+[submodule "Front-end"]
+	path = Front-end
+	url = https://github.com/goncahri/FaculRide-FRONT-AWS
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/devDavyRibeiro/FaculRide-Mobile
